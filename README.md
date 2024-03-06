@@ -1,8 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Shwetang</h1>
-<h3 align="center">A passionate full-Stack developer from Bengaluru , India.</h3>
+<h3 align="center">A passionate full-Stack developer from Varanasi , India.</h3>
 
-- 🌱 I’m currently learning **Machine Learning, Effe**
+- 📍 Currently Living In **Bengaluru** 
+
+- 🌱 I’m currently learning **Machine Learning, Data-Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shwetang007](https://github.com/shwetang007)
 
