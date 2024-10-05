@@ -1,5 +1,4 @@
-<h1 align="center" style="color: #4CAF50;">🌟 Welcome to My Magical Realm! 🌟</h1>
-<h3 align="center" style="color: #2196F3;">✨ Hi there! I'm Shwetang, a Full-Stack Developer from Varanasi, India! ✨</h3>
+<h3 align="center" style="color: #2196F3;"> Hi there! I'm Shwetang, a Full-Stack Developer from Varanasi, India! </h3>
 
 ---
 
@@ -65,7 +64,7 @@
 ---
 
 ### 🎶 Fun Music Playlist:
-[Listen on Spotify](your_spotify_link_here)
+[Listen on Spotify](https://open.spotify.com/playlist/37i9dQZEVXbNG2KDcFcKOF)
 
 ---
 
