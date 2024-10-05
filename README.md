@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I'm Shwetang</h1>
-<h3 align="center">A passionate Full-Stack Developer from Varanasi, India.</h3>
+<h1 align="center" style="font-family: 'Arial'; color: #4A90E2;">🌟 Hi 👋, I'm Shwetang 🌟</h1>
+<h3 align="center" style="color: #333;">A passionate Full-Stack Developer from Varanasi, India.</h3>
 
 ---
 
@@ -15,7 +15,7 @@
 
 ### 🤝 Connect with Me:
 <details>
-<summary>Click to Expand</summary>
+<summary style="cursor: pointer; color: #4A90E2;">Click to Expand</summary>
 <p align="left">
   <a href="https://linkedin.com/in/shwetang_" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shwetang_" height="30" width="40" /></a>
   <a href="https://instagram.com/caffeine72.45mg" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="caffeine72.45mg" height="30" width="40" /></a>
@@ -26,7 +26,7 @@
 
 ### 🛠️ Languages and Tools:
 <details>
-<summary>Click to View My Skills</summary>
+<summary style="cursor: pointer; color: #4A90E2;">Click to View My Skills</summary>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
@@ -38,7 +38,6 @@
   <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40"/></a>
-  <a href="#" target="_blank"><img src="" alt="" width=0 height=0/></a> <!-- Placeholder for future tools -->
 </p>
 </details>
 
@@ -46,20 +45,24 @@
 
 ### 📊 GitHub Stats
 <p align='center'>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs?username=shwetang007&show_icons=true&locale=en&layout=compact' alt='Top Languages' />
+  <img src='https://github-readme-stats.vercel.app/api?username=shwetang007&show_icons=true&theme=radical' alt='Shwetang's GitHub Stats' />
+</p>
+
+<p align='center'>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=shwetang007&layout=compact&theme=radical' alt='Top Languages' />
 </p>
 
 ---
 
 ### 🎉 Fun Interactive Element
 <details>
-<summary>✨ Click for a Surprise!</summary>
+<summary style='cursor: pointer; color: #4A90E2;'>✨ Click for a Surprise!</summary>
 <p style='color: #FF69B4;'>🎊 You've unlocked a hidden message! Keep coding and stay awesome! 🎊</p>
 </details>
 
 ---
 
 ### 🌟 Thank You for Visiting!
-Feel free to explore my projects and connect with me. Let's create something amazing together!
+Feel free to explore my projects and connect with me. Let's create something amazing together! 🚀
 
 ---
