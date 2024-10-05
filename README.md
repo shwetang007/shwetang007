@@ -17,8 +17,9 @@
 <details>
 <summary style="cursor: pointer; color: #4A90E2;">Click to Expand</summary>
 <p align="left">
-  <a href="https://linkedin.com/in/shwetang_" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shwetang_" height="30" width="40" /></a>
-  <a href="https://instagram.com/caffeine72.45mg" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="caffeine72.45mg" height="30" width="40" /></a>
+   align="left">
+  <a href="https://www.linkedin.com/in/shwetang-50859b28b/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shwetang_" height="30" width="40" />
 </p>
 </details>
 
