@@ -54,13 +54,6 @@
 
 ---
 
-### 🎉 Fun Interactive Element
-<details>
-<summary style='cursor: pointer; color: #4A90E2;'>✨ Click for a Surprise!</summary>
-<p style='color: #FF69B4;'>🎊 You've unlocked a hidden message! Keep coding and stay awesome! 🎊</p>
-</details>
-
----
 
 ### 🌟 Thank You for Visiting!
 Feel free to explore my projects and connect with me. Let's create something amazing together! 🚀
