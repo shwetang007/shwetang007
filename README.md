@@ -1,4 +1,4 @@
-<h1 align="center" style="font-family: 'Arial'; color: #4A90E2;">🌟 Hi 👋, I'm Shwetang 🌟</h1>
+<h1 align="center" style="font-family: 'Arial'; color: #4A90E2;">Hi 👋, I'm Shwetang </h1>
 <h3 align="center" style="color: #333;">A passionate Full-Stack Developer from Varanasi, India.</h3>
 
 ---
@@ -17,7 +17,6 @@
 <details>
 <summary style="cursor: pointer; color: #4A90E2;">Click to Expand</summary>
 <p align="left">
-   align="left">
   <a href="https://www.linkedin.com/in/shwetang-50859b28b/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shwetang_" height="30" width="40" />
 </p>
