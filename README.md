@@ -7,9 +7,8 @@
 - 📍 Currently Living In **Bengaluru**
 - 🌱 I’m currently learning **Machine Learning** and **Data Science**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/shwetang007)
-- 💬 Ask me about **ML, Full-Stack, ChatGPT, AWS, DSA,Research,Docker,Kubernetes**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shwetang-50859b28b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIBjD4RELQjeAzTpzpLdQ6Q%3D%3D)
-- [LeetCode](https://leetcode.com/u/shwetang2003/)
+- 💬 Ask me about **ML, Full-Stack,Java,ChatGPT, AWS, DSA,Research,Docker,Kubernetes**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shwetang-50859b28b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIBjD4RELQjeAzTpzpLdQ6Q%3D%3D) &[LeetCode](https://leetcode.com/u/shwetang2003/)
 - ⚡ Fun fact: **I am a Social Skills Maven and an Enthusiastic Collaborator**
 
 ---
